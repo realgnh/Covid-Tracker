@@ -51,4 +51,4 @@ async def track(interaction: discord.Interaction):
     else:
         print(f'ERROR: {r.status_code} ⚠️')
         
-bot.run("MTE5ODAzODE0NDUwNzk3MzcwMg.GcBj9L.cYHhz4q2K8_dyAedzXTOnI6P6NLx9G-0eE4AgA")
+bot.run("YOUR BOT TOKEN")
